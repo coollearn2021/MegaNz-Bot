@@ -1,7 +1,7 @@
 import os
 
 class Config(object):
-    BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+    BOT_TOKEN = os.environ.get("BOT_TOKEN", "1918404054:AAEiEtUMFhrFHMciSLKVQPG6nyiwdXNzapc")
 
     API_ID = int(os.environ.get("API_ID", 6))
 
